@@ -36,8 +36,5 @@ Data Science graduate with hands-on experience in data engineering and analytics
 ## 🎓 Certifications
 - Databricks Accredited Fundamentals (Lakehouse Architecture)
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kalwathi123&show_icons=true&theme=radical)
-
 ---
 💡 Always learning and exploring new technologies in data engineering and AI integration!
