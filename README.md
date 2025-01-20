@@ -1,31 +1,43 @@
-> ## *Mohammed Abdul Rahman Kalwathi- Data Science Engineer Graduate Student*
->
-> ### :green_circle: Summary
->
-> - 😀 Experienced Data Analyst with a background in Computer Science Engineering.
-> - Pursuing a Master's in Data Science Engineering, specializing in statistics, probability, numerical mathematics, and Python programming for data-driven insights. 📊🔍💻
->
-> ### :orange_circle: Education
->
-> - **Master's in Data Science Engineering (In Progress)**
->   - Focus on statistics, probability, numerical mathematics, and Python programming.
->
-> - **Bachelor's in Computer Science Engineering**
->   - Developed strong technical skills and problem-solving acumen. 🎓💡
->
-> ### :red_circle: Professional Expertise
->
-> #### :purple_circle: Data Analysis in Life Science Industry
->
-> - 😎 **Cloud Services:** Proficient in AWS S3 for efficient data storage and Redshift for optimized data delivery.
->
-> - 😊 **Data Processing Technologies:** Expertise in Sqoop for extraction, Hive for warehousing, and SQL for analysis. 🌐💾🔍
->
-> - 😃 **Data Integrity:** Diligently ensured accuracy within sales process modules, maintaining information integrity.
->
-> - 😊 **MDM Integration:** Orchestrated seamless inclusion of medicine products into Master Data Management for operational synchronization. 🔄🏥
->
-> ### :yellow_circle: Conclusion
->
-> - Hybrid expertise in Computer Science Engineering and ongoing specialization in Data Science Engineering.
-> - Hands-on experience in leveraging big data technologies to derive actionable insights and optimize processes in the dynamic field of data science. 🚀📈
+# Hi there! 👋 I'm Mohammed Abdul Rahman Kalwathi
+
+Data Science graduate with hands-on experience in data engineering and analytics. Currently pursuing M.E. in Data Science at SUNY Buffalo, focusing on AI-driven data systems and modern data architectures.
+
+## 🔧 Technologies & Tools
+- **Languages:** Python, SQL, Shell Scripting, HTML5, CSS, Hive
+- **Big Data:** Hadoop, Spark, Hive, ETL
+- **Cloud:** AWS (EC2, S3, Redshift, VPC, IAM, CloudWatch)
+- **Frameworks:** Pandas, NumPy, Scikit-learn, PySpark, Spark SQL, Airflow, StreamLit
+- **Tools:** Git, Docker, JIRA, Control-M, Tableau, PostgreSQL, MySQL
+
+## 🚀 What I Do
+- Build and optimize ETL pipelines
+- Implement data quality validation frameworks
+- Develop automated monitoring solutions
+- Create interactive data visualizations
+- Design machine learning pipelines
+
+## 🌟 Featured Projects
+- **Car Accident Severity Prediction**
+  - End-to-end ML pipeline analyzing 500K+ records
+  - 73% accuracy using Random Forest
+  - Interactive Streamlit dashboard
+  
+- **Hotel Management System**
+  - ETL pipeline with PostgreSQL on AWS RDS
+  - Interactive analytics dashboard
+  - Optimized query performance
+
+## 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/mohammed-kalwathi/)
+- [Medium](https://medium.com/@mkalwathi)
+- [Instagram](https://www.instagram.com/data.engineering.ai/)
+- Email: mjahirhu@buffalo.edu
+
+## 🎓 Certifications
+- Databricks Accredited Fundamentals (Lakehouse Architecture)
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kalwathi123&show_icons=true&theme=radical)
+
+---
+💡 Always learning and exploring new technologies in data engineering and AI integration!
